@@ -1,6 +1,12 @@
 aaa
 
 
+<<<<<<< .mine
 aaa tying to commit
 
 branche
+=======
+aaa tying to commit
+
+testing
+>>>>>>> .theirs
